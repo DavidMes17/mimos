@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Poppins, sans-serif, Times New Roman;
+}
+.navbar{
+    display: flex;
+    background-color: #f5a1d3;
+    width: 100%;
+    height: 3rem;
+}
+.navbar > p{
+    margin: 1rem;
+    color: #fff;
+}
